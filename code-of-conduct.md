@@ -31,11 +31,37 @@ If you want to publicly disclose anything discussed here, use the [Chatham House
 
 For attribution of specific content found on this Slack, we ask that you ask the originator of the content for permission. If you don’t receive consent in a reasonable period of time, we ask that you credit the “Rands Leadership Slack.”
 
-## Not For Profit
+## Read the Room
+
+This is large community with a great many different humans populating hundreds of channels. Different channels have organically developed different personalities. We suggest that before posting in a channel with hundreds of members that you take the time read the room. Specifically:
+
+* Read the last couple days of messages.
+* Examine the channel topic for helpful tips.
+* Click on the channel details and read the about section, get a sense for how many members are present, and what messages have already been pinned and what files have been shared.
+
+Posting the same message to multiple channels is spamming. Don't spam. 
+
+## Not For Profit (Mostly)
 
 While this community is designed to help aspects of leadership, and that frequently benefit whatever company or individual a member is currently working for, this is not a place for obvious commercial activities such as recruiting, marketing, or other solicitation, except in channels dedicated to that purpose.
 
-Channels for commercial purposes include:
+If you join this community simply to take value rather than contribute, the community will quickly notice and react. A recurring example of this type of behavior is your first non-introductory post to the community involving marketing, survey, or other obvious commercial activity.
+
+Non-obvious and quasi-commerical activity includes (but is not limited to) well-intentioned user surveys of a specific channel, responding to a request for tools or services with information about a company, or posts which are blatantly fronts for commercial interests. If after productively engaging with the community, you are wondering whether a specific action is commercial or not, please ask in channel and/or calibrate in one of the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
+
+In general, our guidelines are that you:
+
+* Ask permission of the channel before posting the solicitation or information
+* State clear intent for the purpose
+* Listen for the response of your peers in channel and act accordingly
+
+In the case of surveys, there is an additional set of requirements. Members interested in surveying a channel must clearly state in public channel:
+
+1. The goal of the survey
+2. How the data will be used
+3. When and how the results will be shared with the channel
+
+Examples of channels which currently explicitly allow commercial activity include:
 
 * #conferences
 * #consulting-gigs
@@ -45,21 +71,12 @@ Channels for commercial purposes include:
 * #jobs
 * #remote-jobs
 * #services
+* #watches
 * #wedidit
 
-Even channels dedicated to commercial purposes are dedicated to a specific aspect of commercial purpose; it is just as unwelcome to post an unrelated commercial offering there as it is to post in non-commercial channels.
+Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. 
 
-Additionally, some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. We recommend the asking protocol below for these channels as well.
-
-Non-obvious commercial activity includes things such as well-intentioned user surveys of a specific channel or responding to a request for tools or services with information about what your company provides.  In these situations, we ask that you:
-
-* Ask permission of the channel *before* posting the solicitation or information
-* State clear intent for the purpose
-* Listen to the response of your peers
-
-We believe the above protocol is generally useful and should be used when there are any doubts.
-
-If you join this community simply to take value rather than contribute, the community will quickly notice and react. If you are wondering whether a specific action is commercial or not, please ask and calibrate in one of the the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
+In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 
 ## Resolve Peacefully
 
@@ -75,7 +92,7 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 ## Consequences
 
-If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting_content.md).
+If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md).
 
 If you are unable to resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md) and choose a course of action that suits the situation.
 
@@ -85,18 +102,18 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-The Administrator(s) of Rands Leadership as of December 2019:
+The Administrator(s) of Rands Leadership as of November 2020:
 
-* @moj_hoss
-* @pixeldiva
-* @piebob
+* @mcole
+* @okterok 
+* @erin.disselhorst 
 * @cjhuitt
 * @supine
 * @rands (also the workspace owner)
 
-You can also contact them via the @admins group or by posting in the #rands-admins channel.
+You can also contact them directly or by posting in the #rands-admins channel.
 
-The current term of the volunteer Administrations is November 14th, 2019 until November 14th, 2020.
+The current term of the volunteer Administrations is November 2nd, 2020 until November 2nd, 2021.
 
 ## Thanks
 
@@ -104,6 +121,6 @@ Thank you to every Rands Leadership Slack community member for helping to make o
 
 Special thanks to [Chicago Camps](http://chicagocamps.org/code-of-conduct/), YxYY ([Yes and Yes Yes](http://www.yesandyesyes.com/)), and Hillary Hartley for sharing their Code of Conduct with us. We consider them as examples to look up to and emulate. We also thank the YxYY community member [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
-V2.4 of this Code of Conduct was published on January 23rd, 2020.
+V2.51 of this Code of Conduct was published on November 27th, 2001.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
